@@ -1,0 +1,42 @@
+{
+  "name": "coin-library",
+  "version": "1.0.0",
+  "description": "Cryptocurrency and token icons as a reusable asset library",
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "manifest.json",
+    "*.png"
+  ],
+  "scripts": {
+    "build:manifest": "node build-manifest.js",
+    "prepublishOnly": "npm run build:manifest"
+  },
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "icons",
+    "tokens",
+    "coins"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/coin-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/coin-library/issues"
+  },
+  "homepage": "https://github.com/your-username/coin-library#readme"
+}
