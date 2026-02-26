@@ -3,12 +3,13 @@ const path = require('path');
 
 const root = __dirname;
 
-// Coins: PNGs in package root
-const coinFiles = fs.readdirSync(root)
+// Coins: PNGs in icons/
+const iconsDir = path.join(root, 'icons');
+const coinFiles = (fs.existsSync(iconsDir) ? fs.readdirSync(iconsDir) : [])
   .filter((f) => f.endsWith('.png'))
   .map((f) => {
     const name = f.slice(0, -4);
-    return { name, file: f, slug: name.toLowerCase().replace(/\s+/g, '-') };
+    return { name, file: `icons/${f}`, slug: name.toLowerCase().replace(/\s+/g, '-') };
   })
   .sort((a, b) => a.name.localeCompare(b.name));
 

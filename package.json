@@ -17,7 +17,7 @@
     "index.mjs",
     "index.d.ts",
     "manifest.json",
-    "*.png"
+    "icons"
   ],
   "scripts": {
     "build:manifest": "node build-manifest.js",
