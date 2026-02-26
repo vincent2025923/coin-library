@@ -1,4 +1,790 @@
 {
-  "banks": [],
-  "count": 0
+  "banks": [
+    {
+      "name": "aladin",
+      "file": "banks/private-banks/aladin.png",
+      "slug": "aladin"
+    },
+    {
+      "name": "allo",
+      "file": "banks/private-banks/allo.png",
+      "slug": "allo"
+    },
+    {
+      "name": "amar-bank",
+      "file": "banks/private-banks/amar-bank.png",
+      "slug": "amar-bank"
+    },
+    {
+      "name": "anz",
+      "file": "banks/private-banks/anz.png",
+      "slug": "anz"
+    },
+    {
+      "name": "bangkok-bank",
+      "file": "banks/foreign-branch-office/bangkok-bank.png",
+      "slug": "bangkok-bank"
+    },
+    {
+      "name": "bank-artha-graha-internasional",
+      "file": "banks/private-banks/bank-artha-graha-internasional.png",
+      "slug": "bank-artha-graha-internasional"
+    },
+    {
+      "name": "bank-bengkulu",
+      "file": "banks/regional-bank/bank-bengkulu.png",
+      "slug": "bank-bengkulu"
+    },
+    {
+      "name": "bank-bjb",
+      "file": "banks/regional-bank/bank-bjb.png",
+      "slug": "bank-bjb"
+    },
+    {
+      "name": "bank-bjb-syariah",
+      "file": "banks/regional-bank/bank-bjb-syariah.png",
+      "slug": "bank-bjb-syariah"
+    },
+    {
+      "name": "bank-bpd-aceh",
+      "file": "banks/regional-bank/bank-bpd-aceh.png",
+      "slug": "bank-bpd-aceh"
+    },
+    {
+      "name": "bank-bpd-bali",
+      "file": "banks/regional-bank/bank-bpd-bali.png",
+      "slug": "bank-bpd-bali"
+    },
+    {
+      "name": "bank-bpd-banten",
+      "file": "banks/regional-bank/bank-bpd-banten.png",
+      "slug": "bank-bpd-banten"
+    },
+    {
+      "name": "bank-bpd-diy",
+      "file": "banks/regional-bank/bank-bpd-diy.png",
+      "slug": "bank-bpd-diy"
+    },
+    {
+      "name": "bank-bpd-jambi",
+      "file": "banks/regional-bank/bank-bpd-jambi.png",
+      "slug": "bank-bpd-jambi"
+    },
+    {
+      "name": "bank-bpd-jateng",
+      "file": "banks/regional-bank/bank-bpd-jateng.png",
+      "slug": "bank-bpd-jateng"
+    },
+    {
+      "name": "bank-bpd-jatim",
+      "file": "banks/regional-bank/bank-bpd-jatim.png",
+      "slug": "bank-bpd-jatim"
+    },
+    {
+      "name": "bank-bpd-kalbar",
+      "file": "banks/regional-bank/bank-bpd-kalbar.png",
+      "slug": "bank-bpd-kalbar"
+    },
+    {
+      "name": "bank-bpd-kalbar-(alt)",
+      "file": "banks/regional-bank/bank-bpd-kalbar-(alt).png",
+      "slug": "bank-bpd-kalbar-(alt)"
+    },
+    {
+      "name": "bank-bpd-kalimantan-timur",
+      "file": "banks/regional-bank/bank-bpd-kalimantan-timur.png",
+      "slug": "bank-bpd-kalimantan-timur"
+    },
+    {
+      "name": "bank-bpd-kalsel",
+      "file": "banks/regional-bank/bank-bpd-kalsel.png",
+      "slug": "bank-bpd-kalsel"
+    },
+    {
+      "name": "bank-bpd-kalteng",
+      "file": "banks/regional-bank/bank-bpd-kalteng.png",
+      "slug": "bank-bpd-kalteng"
+    },
+    {
+      "name": "bank-bpd-lampung",
+      "file": "banks/regional-bank/bank-bpd-lampung.png",
+      "slug": "bank-bpd-lampung"
+    },
+    {
+      "name": "bank-bpd-maluku-malut",
+      "file": "banks/regional-bank/bank-bpd-maluku-malut.png",
+      "slug": "bank-bpd-maluku-malut"
+    },
+    {
+      "name": "bank-bpd-ntb-syariah",
+      "file": "banks/regional-bank/bank-bpd-ntb-syariah.png",
+      "slug": "bank-bpd-ntb-syariah"
+    },
+    {
+      "name": "bank-bpd-ntb-syariah-(alt)",
+      "file": "banks/regional-bank/bank-bpd-ntb-syariah-(alt).png",
+      "slug": "bank-bpd-ntb-syariah-(alt)"
+    },
+    {
+      "name": "bank-bpd-ntt",
+      "file": "banks/regional-bank/bank-bpd-ntt.png",
+      "slug": "bank-bpd-ntt"
+    },
+    {
+      "name": "bank-bpd-papua",
+      "file": "banks/regional-bank/bank-bpd-papua.png",
+      "slug": "bank-bpd-papua"
+    },
+    {
+      "name": "bank-bpd-riau-kepri",
+      "file": "banks/regional-bank/bank-bpd-riau-kepri.png",
+      "slug": "bank-bpd-riau-kepri"
+    },
+    {
+      "name": "bank-bpd-riau-kepri-syariah",
+      "file": "banks/regional-bank/bank-bpd-riau-kepri-syariah.png",
+      "slug": "bank-bpd-riau-kepri-syariah"
+    },
+    {
+      "name": "bank-bpd-sulselbar",
+      "file": "banks/regional-bank/bank-bpd-sulselbar.png",
+      "slug": "bank-bpd-sulselbar"
+    },
+    {
+      "name": "bank-bpd-sulteng",
+      "file": "banks/regional-bank/bank-bpd-sulteng.png",
+      "slug": "bank-bpd-sulteng"
+    },
+    {
+      "name": "bank-bpd-sultra",
+      "file": "banks/regional-bank/bank-bpd-sultra.png",
+      "slug": "bank-bpd-sultra"
+    },
+    {
+      "name": "bank-bpd-sulutgo",
+      "file": "banks/regional-bank/bank-bpd-sulutgo.png",
+      "slug": "bank-bpd-sulutgo"
+    },
+    {
+      "name": "bank-bpd-sumsel-babel",
+      "file": "banks/regional-bank/bank-bpd-sumsel-babel.png",
+      "slug": "bank-bpd-sumsel-babel"
+    },
+    {
+      "name": "bank-bpd-sumsel-babel-(alt-1)",
+      "file": "banks/regional-bank/bank-bpd-sumsel-babel-(alt-1).png",
+      "slug": "bank-bpd-sumsel-babel-(alt-1)"
+    },
+    {
+      "name": "bank-bpd-sumsel-babel-(alt-2)",
+      "file": "banks/regional-bank/bank-bpd-sumsel-babel-(alt-2).png",
+      "slug": "bank-bpd-sumsel-babel-(alt-2)"
+    },
+    {
+      "name": "bank-bpd-sumut",
+      "file": "banks/regional-bank/bank-bpd-sumut.png",
+      "slug": "bank-bpd-sumut"
+    },
+    {
+      "name": "bank-bumi-artha",
+      "file": "banks/private-banks/bank-bumi-artha.png",
+      "slug": "bank-bumi-artha"
+    },
+    {
+      "name": "bank-capital",
+      "file": "banks/private-banks/bank-capital.png",
+      "slug": "bank-capital"
+    },
+    {
+      "name": "bank-capital-(alt)",
+      "file": "banks/private-banks/bank-capital-(alt).png",
+      "slug": "bank-capital-(alt)"
+    },
+    {
+      "name": "bank-dki",
+      "file": "banks/regional-bank/bank-dki.png",
+      "slug": "bank-dki"
+    },
+    {
+      "name": "bank-dki-1",
+      "file": "banks/regional-bank/bank-dki-1.png",
+      "slug": "bank-dki-1"
+    },
+    {
+      "name": "bank-ganesha",
+      "file": "banks/private-banks/bank-ganesha.png",
+      "slug": "bank-ganesha"
+    },
+    {
+      "name": "bank-ina",
+      "file": "banks/private-banks/bank-ina.png",
+      "slug": "bank-ina"
+    },
+    {
+      "name": "bank-index-selindo",
+      "file": "banks/private-banks/bank-index-selindo.png",
+      "slug": "bank-index-selindo"
+    },
+    {
+      "name": "bank-index-selindo-(alt)",
+      "file": "banks/private-banks/bank-index-selindo-(alt).png",
+      "slug": "bank-index-selindo-(alt)"
+    },
+    {
+      "name": "bank-jasa-jakarta",
+      "file": "banks/private-banks/bank-jasa-jakarta.png",
+      "slug": "bank-jasa-jakarta"
+    },
+    {
+      "name": "bank-lampung",
+      "file": "banks/regional-bank/bank-lampung.png",
+      "slug": "bank-lampung"
+    },
+    {
+      "name": "bank-mas",
+      "file": "banks/private-banks/bank-mas.png",
+      "slug": "bank-mas"
+    },
+    {
+      "name": "bank-maspion",
+      "file": "banks/private-banks/bank-maspion.png",
+      "slug": "bank-maspion"
+    },
+    {
+      "name": "bank-maspion-(alt)",
+      "file": "banks/private-banks/bank-maspion-(alt).png",
+      "slug": "bank-maspion-(alt)"
+    },
+    {
+      "name": "bank-mayapada",
+      "file": "banks/private-banks/bank-mayapada.png",
+      "slug": "bank-mayapada"
+    },
+    {
+      "name": "bank-mayapada-(alt)",
+      "file": "banks/private-banks/bank-mayapada-(alt).png",
+      "slug": "bank-mayapada-(alt)"
+    },
+    {
+      "name": "bank-mayora",
+      "file": "banks/private-banks/bank-mayora.png",
+      "slug": "bank-mayora"
+    },
+    {
+      "name": "bank-mestika-dharma",
+      "file": "banks/private-banks/bank-mestika-dharma.png",
+      "slug": "bank-mestika-dharma"
+    },
+    {
+      "name": "bank-nagari",
+      "file": "banks/regional-bank/bank-nagari.png",
+      "slug": "bank-nagari"
+    },
+    {
+      "name": "bank-of-america",
+      "file": "banks/foreign-branch-office/bank-of-america.png",
+      "slug": "bank-of-america"
+    },
+    {
+      "name": "bank-of-china",
+      "file": "banks/foreign-branch-office/bank-of-china.png",
+      "slug": "bank-of-china"
+    },
+    {
+      "name": "bank-of-india",
+      "file": "banks/foreign-branch-office/bank-of-india.png",
+      "slug": "bank-of-india"
+    },
+    {
+      "name": "bank-of-india-indonesia",
+      "file": "banks/foreign-branch-office/bank-of-india-indonesia.png",
+      "slug": "bank-of-india-indonesia"
+    },
+    {
+      "name": "bank-raya",
+      "file": "banks/private-banks/bank-raya.png",
+      "slug": "bank-raya"
+    },
+    {
+      "name": "bank-resona-perdania",
+      "file": "banks/private-banks/bank-resona-perdania.png",
+      "slug": "bank-resona-perdania"
+    },
+    {
+      "name": "bank-resona-perdania-(alt)",
+      "file": "banks/private-banks/bank-resona-perdania-(alt).png",
+      "slug": "bank-resona-perdania-(alt)"
+    },
+    {
+      "name": "bank-sahabat-sampoerna",
+      "file": "banks/private-banks/bank-sahabat-sampoerna.png",
+      "slug": "bank-sahabat-sampoerna"
+    },
+    {
+      "name": "bank-saqu",
+      "file": "banks/private-banks/bank-saqu.png",
+      "slug": "bank-saqu"
+    },
+    {
+      "name": "bank-saqu-(alt)",
+      "file": "banks/private-banks/bank-saqu-(alt).png",
+      "slug": "bank-saqu-(alt)"
+    },
+    {
+      "name": "bank-smbc-indonesia",
+      "file": "banks/private-banks/bank-smbc-indonesia.png",
+      "slug": "bank-smbc-indonesia"
+    },
+    {
+      "name": "bank-victoria",
+      "file": "banks/private-banks/bank-victoria.png",
+      "slug": "bank-victoria"
+    },
+    {
+      "name": "bank-victoria-syariah",
+      "file": "banks/private-banks/bank-victoria-syariah.png",
+      "slug": "bank-victoria-syariah"
+    },
+    {
+      "name": "bank-woori-saudara",
+      "file": "banks/private-banks/bank-woori-saudara.png",
+      "slug": "bank-woori-saudara"
+    },
+    {
+      "name": "bca",
+      "file": "banks/private-banks/bca.png",
+      "slug": "bca"
+    },
+    {
+      "name": "bca-digital",
+      "file": "banks/private-banks/bca-digital.png",
+      "slug": "bca-digital"
+    },
+    {
+      "name": "bca-syariah",
+      "file": "banks/private-banks/bca-syariah.png",
+      "slug": "bca-syariah"
+    },
+    {
+      "name": "blu-bca",
+      "file": "banks/private-banks/blu-bca.png",
+      "slug": "blu-bca"
+    },
+    {
+      "name": "bnc",
+      "file": "banks/private-banks/bnc.png",
+      "slug": "bnc"
+    },
+    {
+      "name": "bni",
+      "file": "banks/state-owned/bni.png",
+      "slug": "bni"
+    },
+    {
+      "name": "bnp-paribas",
+      "file": "banks/private-banks/bnp-paribas.png",
+      "slug": "bnp-paribas"
+    },
+    {
+      "name": "bri",
+      "file": "banks/state-owned/bri.png",
+      "slug": "bri"
+    },
+    {
+      "name": "bri-(alt)",
+      "file": "banks/state-owned/bri-(alt).png",
+      "slug": "bri-(alt)"
+    },
+    {
+      "name": "bri-(vertical)",
+      "file": "banks/state-owned/bri-(vertical).png",
+      "slug": "bri-(vertical)"
+    },
+    {
+      "name": "bsi",
+      "file": "banks/private-banks/bsi.png",
+      "slug": "bsi"
+    },
+    {
+      "name": "btn",
+      "file": "banks/state-owned/btn.png",
+      "slug": "btn"
+    },
+    {
+      "name": "btn-(alt)",
+      "file": "banks/state-owned/btn-(alt).png",
+      "slug": "btn-(alt)"
+    },
+    {
+      "name": "btn-(new)",
+      "file": "banks/state-owned/btn-(new).png",
+      "slug": "btn-(new)"
+    },
+    {
+      "name": "btn-syariah",
+      "file": "banks/state-owned/btn-syariah.png",
+      "slug": "btn-syariah"
+    },
+    {
+      "name": "btn-syariah-(new)",
+      "file": "banks/state-owned/btn-syariah-(new).png",
+      "slug": "btn-syariah-(new)"
+    },
+    {
+      "name": "btpn",
+      "file": "banks/private-banks/btpn.png",
+      "slug": "btpn"
+    },
+    {
+      "name": "btpn-syariah",
+      "file": "banks/private-banks/btpn-syariah.png",
+      "slug": "btpn-syariah"
+    },
+    {
+      "name": "ccb-indonesia",
+      "file": "banks/private-banks/ccb-indonesia.png",
+      "slug": "ccb-indonesia"
+    },
+    {
+      "name": "ccb-indonesia-(alt)",
+      "file": "banks/private-banks/ccb-indonesia-(alt).png",
+      "slug": "ccb-indonesia-(alt)"
+    },
+    {
+      "name": "cimb-niaga",
+      "file": "banks/private-banks/cimb-niaga.png",
+      "slug": "cimb-niaga"
+    },
+    {
+      "name": "cimb-niaga-syariah",
+      "file": "banks/private-banks/cimb-niaga-syariah.png",
+      "slug": "cimb-niaga-syariah"
+    },
+    {
+      "name": "citibank",
+      "file": "banks/foreign-branch-office/citibank.png",
+      "slug": "citibank"
+    },
+    {
+      "name": "citibank-(alt)",
+      "file": "banks/foreign-branch-office/citibank-(alt).png",
+      "slug": "citibank-(alt)"
+    },
+    {
+      "name": "commonwealth",
+      "file": "banks/private-banks/commonwealth.png",
+      "slug": "commonwealth"
+    },
+    {
+      "name": "credit-suisse",
+      "file": "banks/foreign-branch-office/credit-suisse.png",
+      "slug": "credit-suisse"
+    },
+    {
+      "name": "ctbc-bank",
+      "file": "banks/private-banks/ctbc-bank.png",
+      "slug": "ctbc-bank"
+    },
+    {
+      "name": "danamon",
+      "file": "banks/private-banks/danamon.png",
+      "slug": "danamon"
+    },
+    {
+      "name": "danamon-(mufg)",
+      "file": "banks/private-banks/danamon-(mufg).png",
+      "slug": "danamon-(mufg)"
+    },
+    {
+      "name": "danamon-syariah",
+      "file": "banks/private-banks/danamon-syariah.png",
+      "slug": "danamon-syariah"
+    },
+    {
+      "name": "dbs",
+      "file": "banks/private-banks/dbs.png",
+      "slug": "dbs"
+    },
+    {
+      "name": "deutsche-bank",
+      "file": "banks/foreign-branch-office/deutsche-bank.png",
+      "slug": "deutsche-bank"
+    },
+    {
+      "name": "hibank",
+      "file": "banks/private-banks/hibank.png",
+      "slug": "hibank"
+    },
+    {
+      "name": "hsbc",
+      "file": "banks/private-banks/hsbc.png",
+      "slug": "hsbc"
+    },
+    {
+      "name": "ibk-bank",
+      "file": "banks/private-banks/ibk-bank.png",
+      "slug": "ibk-bank"
+    },
+    {
+      "name": "icbc",
+      "file": "banks/private-banks/icbc.png",
+      "slug": "icbc"
+    },
+    {
+      "name": "icbc-(alt)",
+      "file": "banks/private-banks/icbc-(alt).png",
+      "slug": "icbc-(alt)"
+    },
+    {
+      "name": "ing-bank",
+      "file": "banks/private-banks/ing-bank.png",
+      "slug": "ing-bank"
+    },
+    {
+      "name": "j-trust-bank",
+      "file": "banks/private-banks/j-trust-bank.png",
+      "slug": "j-trust-bank"
+    },
+    {
+      "name": "jago",
+      "file": "banks/private-banks/jago.png",
+      "slug": "jago"
+    },
+    {
+      "name": "jenius",
+      "file": "banks/private-banks/jenius.png",
+      "slug": "jenius"
+    },
+    {
+      "name": "jp-morgan-chase",
+      "file": "banks/foreign-branch-office/jp-morgan-chase.png",
+      "slug": "jp-morgan-chase"
+    },
+    {
+      "name": "kb-bukopin",
+      "file": "banks/private-banks/kb-bukopin.png",
+      "slug": "kb-bukopin"
+    },
+    {
+      "name": "kb-bukopin-(alt)",
+      "file": "banks/private-banks/kb-bukopin-(alt).png",
+      "slug": "kb-bukopin-(alt)"
+    },
+    {
+      "name": "kb-bukopin-syariah",
+      "file": "banks/private-banks/kb-bukopin-syariah.png",
+      "slug": "kb-bukopin-syariah"
+    },
+    {
+      "name": "keb-hana-bank",
+      "file": "banks/private-banks/keb-hana-bank.png",
+      "slug": "keb-hana-bank"
+    },
+    {
+      "name": "keb-hana-bank-(alt)",
+      "file": "banks/private-banks/keb-hana-bank-(alt).png",
+      "slug": "keb-hana-bank-(alt)"
+    },
+    {
+      "name": "krom",
+      "file": "banks/private-banks/krom.png",
+      "slug": "krom"
+    },
+    {
+      "name": "line-bank",
+      "file": "banks/private-banks/line-bank.png",
+      "slug": "line-bank"
+    },
+    {
+      "name": "line-bank-(alt)",
+      "file": "banks/private-banks/line-bank-(alt).png",
+      "slug": "line-bank-(alt)"
+    },
+    {
+      "name": "mandiri",
+      "file": "banks/state-owned/mandiri.png",
+      "slug": "mandiri"
+    },
+    {
+      "name": "mandiri-taspen",
+      "file": "banks/private-banks/mandiri-taspen.png",
+      "slug": "mandiri-taspen"
+    },
+    {
+      "name": "maybank",
+      "file": "banks/private-banks/maybank.png",
+      "slug": "maybank"
+    },
+    {
+      "name": "mega",
+      "file": "banks/private-banks/mega.png",
+      "slug": "mega"
+    },
+    {
+      "name": "mega-syariah",
+      "file": "banks/private-banks/mega-syariah.png",
+      "slug": "mega-syariah"
+    },
+    {
+      "name": "mizuho-bank",
+      "file": "banks/private-banks/mizuho-bank.png",
+      "slug": "mizuho-bank"
+    },
+    {
+      "name": "mnc",
+      "file": "banks/private-banks/mnc.png",
+      "slug": "mnc"
+    },
+    {
+      "name": "mnc-bank",
+      "file": "banks/private-banks/mnc-bank.png",
+      "slug": "mnc-bank"
+    },
+    {
+      "name": "motion-banking",
+      "file": "banks/private-banks/motion-banking.png",
+      "slug": "motion-banking"
+    },
+    {
+      "name": "motion-banking-(alt)",
+      "file": "banks/private-banks/motion-banking-(alt).png",
+      "slug": "motion-banking-(alt)"
+    },
+    {
+      "name": "mualamat",
+      "file": "banks/private-banks/mualamat.png",
+      "slug": "mualamat"
+    },
+    {
+      "name": "mufg",
+      "file": "banks/foreign-branch-office/mufg.png",
+      "slug": "mufg"
+    },
+    {
+      "name": "mufg-(alt)",
+      "file": "banks/foreign-branch-office/mufg-(alt).png",
+      "slug": "mufg-(alt)"
+    },
+    {
+      "name": "nanobank-syariah",
+      "file": "banks/private-banks/nanobank-syariah.png",
+      "slug": "nanobank-syariah"
+    },
+    {
+      "name": "nanobank-syariah-(alt)",
+      "file": "banks/private-banks/nanobank-syariah-(alt).png",
+      "slug": "nanobank-syariah-(alt)"
+    },
+    {
+      "name": "nobu",
+      "file": "banks/private-banks/nobu.png",
+      "slug": "nobu"
+    },
+    {
+      "name": "ocbc-nisp",
+      "file": "banks/private-banks/ocbc-nisp.png",
+      "slug": "ocbc-nisp"
+    },
+    {
+      "name": "ok-bank",
+      "file": "banks/private-banks/ok-bank.png",
+      "slug": "ok-bank"
+    },
+    {
+      "name": "panin-dubai-syariah",
+      "file": "banks/private-banks/panin-dubai-syariah.png",
+      "slug": "panin-dubai-syariah"
+    },
+    {
+      "name": "paninbank",
+      "file": "banks/private-banks/paninbank.png",
+      "slug": "paninbank"
+    },
+    {
+      "name": "permata",
+      "file": "banks/private-banks/permata.png",
+      "slug": "permata"
+    },
+    {
+      "name": "permata-bank-(alt)",
+      "file": "banks/private-banks/permata-bank-(alt).png",
+      "slug": "permata-bank-(alt)"
+    },
+    {
+      "name": "permata-bank-(new)",
+      "file": "banks/private-banks/permata-bank-(new).png",
+      "slug": "permata-bank-(new)"
+    },
+    {
+      "name": "prima-bank",
+      "file": "banks/private-banks/prima-bank.png",
+      "slug": "prima-bank"
+    },
+    {
+      "name": "qnb",
+      "file": "banks/private-banks/qnb.png",
+      "slug": "qnb"
+    },
+    {
+      "name": "sbi-indonesia",
+      "file": "banks/private-banks/sbi-indonesia.png",
+      "slug": "sbi-indonesia"
+    },
+    {
+      "name": "seabank",
+      "file": "banks/private-banks/seabank.png",
+      "slug": "seabank"
+    },
+    {
+      "name": "seabank-(alt)",
+      "file": "banks/private-banks/seabank-(alt).png",
+      "slug": "seabank-(alt)"
+    },
+    {
+      "name": "shinhan-bank",
+      "file": "banks/private-banks/shinhan-bank.png",
+      "slug": "shinhan-bank"
+    },
+    {
+      "name": "shinhan-bank-(alt)",
+      "file": "banks/private-banks/shinhan-bank-(alt).png",
+      "slug": "shinhan-bank-(alt)"
+    },
+    {
+      "name": "sinarmas",
+      "file": "banks/private-banks/sinarmas.png",
+      "slug": "sinarmas"
+    },
+    {
+      "name": "sinarmas-syariah",
+      "file": "banks/private-banks/sinarmas-syariah.png",
+      "slug": "sinarmas-syariah"
+    },
+    {
+      "name": "standard-chartered",
+      "file": "banks/foreign-branch-office/standard-chartered.png",
+      "slug": "standard-chartered"
+    },
+    {
+      "name": "superbank",
+      "file": "banks/private-banks/superbank.png",
+      "slug": "superbank"
+    },
+    {
+      "name": "superbank-(alt)",
+      "file": "banks/private-banks/superbank-(alt).png",
+      "slug": "superbank-(alt)"
+    },
+    {
+      "name": "uob",
+      "file": "banks/private-banks/uob.png",
+      "slug": "uob"
+    },
+    {
+      "name": "welab-bank",
+      "file": "banks/private-banks/welab-bank.png",
+      "slug": "welab-bank"
+    }
+  ],
+  "count": 157
 }

@@ -20,17 +20,26 @@ fs.writeFileSync(
 );
 console.log(`Generated manifest with ${coinFiles.length} coins`);
 
-// Banks: PNGs in banks/
+// Banks: PNGs in banks/ (and subdirs), slug-style filenames (e.g. amar-bank.png)
 const banksDir = path.join(root, 'banks');
 let bankFiles = [];
 if (fs.existsSync(banksDir)) {
-  bankFiles = fs.readdirSync(banksDir)
-    .filter((f) => f.endsWith('.png'))
-    .map((f) => {
-      const name = f.slice(0, -4);
-      return { name, file: `banks/${f}`, slug: name.toLowerCase().replace(/\s+/g, '-') };
-    })
-    .sort((a, b) => a.name.localeCompare(b.name));
+  function walkBanks(dir, subPath) {
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+    const list = [];
+    for (const e of entries) {
+      const full = path.join(dir, e.name);
+      const rel = subPath ? `${subPath}/${e.name}` : e.name;
+      if (e.isDirectory()) {
+        list.push(...walkBanks(full, rel));
+      } else if (e.isFile() && e.name.toLowerCase().endsWith('.png')) {
+        const name = e.name.slice(0, -4);
+        list.push({ name, file: `banks/${rel}`, slug: name.toLowerCase().replace(/\s+/g, '-') });
+      }
+    }
+    return list;
+  }
+  bankFiles = walkBanks(banksDir, '').sort((a, b) => a.name.localeCompare(b.name));
 }
 
 fs.writeFileSync(
