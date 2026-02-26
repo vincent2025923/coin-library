@@ -1,6 +1,6 @@
 {
   "name": "coin-library",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Cryptocurrency and token icons plus bank icons as a reusable asset library",
   "main": "index.js",
   "module": "index.mjs",
