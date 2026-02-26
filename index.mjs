@@ -4,7 +4,9 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const manifestPath = path.join(__dirname, 'manifest.json');
+const banksManifestPath = path.join(__dirname, 'banks-manifest.json');
 let manifest = null;
+let banksManifest = null;
 
 function loadManifest() {
   if (manifest) return manifest;
@@ -16,6 +18,22 @@ function loadManifest() {
   }
 }
 
+function loadBanksManifest() {
+  if (banksManifest) return banksManifest;
+  try {
+    banksManifest = JSON.parse(fs.readFileSync(banksManifestPath, 'utf8'));
+    return banksManifest;
+  } catch (e) {
+    return { banks: [], count: 0 };
+  }
+}
+
+function findEntry(list, normalized) {
+  return list.find(
+    (c) => c.slug === normalized || c.name.toLowerCase() === normalized
+  );
+}
+
 /**
  * Get the absolute path to a coin icon by name (e.g. "bitcoin", "ethereum").
  * @param {string} name - Coin name (case-insensitive)
@@ -24,10 +42,7 @@ function loadManifest() {
 export function getPath(name) {
   if (!name || typeof name !== 'string') return null;
   const normalized = name.trim().toLowerCase();
-  const coins = loadManifest().coins;
-  const match = coins.find(
-    (c) => c.slug === normalized || c.name.toLowerCase() === normalized
-  );
+  const match = findEntry(loadManifest().coins, normalized);
   if (!match) return null;
   return path.join(__dirname, match.file);
 }
@@ -40,10 +55,7 @@ export function getPath(name) {
 export function getFile(name) {
   if (!name || typeof name !== 'string') return null;
   const normalized = name.trim().toLowerCase();
-  const coins = loadManifest().coins;
-  const match = coins.find(
-    (c) => c.slug === normalized || c.name.toLowerCase() === normalized
-  );
+  const match = findEntry(loadManifest().coins, normalized);
   return match ? match.file : null;
 }
 
@@ -60,4 +72,46 @@ export function list() {
  */
 export function count() {
   return loadManifest().count;
+}
+
+// ---- Banks ----
+
+/**
+ * Get the absolute path to a bank icon by name (e.g. "amar-bank", "bca").
+ * @param {string} name - Bank name (case-insensitive, slug or name)
+ * @returns {string|null} Absolute path to the PNG file, or null if not found
+ */
+export function getBankPath(name) {
+  if (!name || typeof name !== 'string') return null;
+  const normalized = name.trim().toLowerCase();
+  const match = findEntry(loadBanksManifest().banks, normalized);
+  if (!match) return null;
+  return path.join(__dirname, match.file);
+}
+
+/**
+ * Get the relative path/filename for a bank icon (e.g. "banks/private-banks/amar-bank.png").
+ * @param {string} name - Bank name
+ * @returns {string|null}
+ */
+export function getBankFile(name) {
+  if (!name || typeof name !== 'string') return null;
+  const normalized = name.trim().toLowerCase();
+  const match = findEntry(loadBanksManifest().banks, normalized);
+  return match ? match.file : null;
+}
+
+/**
+ * List all available bank entries.
+ * @returns {{ name: string, file: string, slug: string }[]}
+ */
+export function listBanks() {
+  return loadBanksManifest().banks;
+}
+
+/**
+ * Total number of bank icons.
+ */
+export function countBanks() {
+  return loadBanksManifest().count;
 }

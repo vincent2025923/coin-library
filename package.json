@@ -1,7 +1,7 @@
 {
   "name": "coin-library",
-  "version": "1.0.1",
-  "description": "Cryptocurrency and token icons as a reusable asset library",
+  "version": "1.1.0",
+  "description": "Cryptocurrency and token icons plus bank icons as a reusable asset library",
   "main": "index.js",
   "module": "index.mjs",
   "types": "index.d.ts",
@@ -17,7 +17,9 @@
     "index.mjs",
     "index.d.ts",
     "manifest.json",
-    "icons"
+    "banks-manifest.json",
+    "icons",
+    "banks"
   ],
   "scripts": {
     "build:manifest": "node build-manifest.js",
@@ -28,7 +30,8 @@
     "cryptocurrency",
     "icons",
     "tokens",
-    "coins"
+    "coins",
+    "banks"
   ],
   "license": "MIT",
   "repository": {
