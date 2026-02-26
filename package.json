@@ -1,6 +1,6 @@
 {
   "name": "coin-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cryptocurrency and token icons as a reusable asset library",
   "main": "index.js",
   "module": "index.mjs",
@@ -33,7 +33,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincent2025923/coin-library.git"
+    "url": "git+https://github.com/vincent2025923/coin-library.git"
   },
   "bugs": {
     "url": "https://github.com/vincent2025923/coin-library/issues"
