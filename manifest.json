@@ -171,6 +171,11 @@
       "slug": "ankreth"
     },
     {
+      "name": "anoa",
+      "file": "icons/anoa.png",
+      "slug": "anoa"
+    },
+    {
       "name": "apenft",
       "file": "icons/apenft.png",
       "slug": "apenft"
@@ -631,6 +636,11 @@
       "slug": "civic"
     },
     {
+      "name": "cjl",
+      "file": "icons/cjl.png",
+      "slug": "cjl"
+    },
+    {
       "name": "clams",
       "file": "icons/clams.png",
       "slug": "clams"
@@ -769,6 +779,11 @@
       "name": "crypto.com coin",
       "file": "icons/crypto.com coin.png",
       "slug": "crypto.com-coin"
+    },
+    {
+      "name": "cst",
+      "file": "icons/cst.png",
+      "slug": "cst"
     },
     {
       "name": "cube",
@@ -929,6 +944,11 @@
       "name": "dragon coins",
       "file": "icons/dragon coins.png",
       "slug": "dragon-coins"
+    },
+    {
+      "name": "drx",
+      "file": "icons/drx.png",
+      "slug": "drx"
     },
     {
       "name": "dusk network",
@@ -3296,5 +3316,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 659
+  "count": 663
 }
