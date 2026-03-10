@@ -2031,6 +2031,11 @@
       "slug": "numeraire"
     },
     {
+      "name": "nxa",
+      "file": "icons/nxa.png",
+      "slug": "nxa"
+    },
+    {
       "name": "nxm",
       "file": "icons/nxm.png",
       "slug": "nxm"
@@ -2276,6 +2281,11 @@
       "slug": "poet"
     },
     {
+      "name": "pol",
+      "file": "icons/pol.png",
+      "slug": "pol"
+    },
+    {
       "name": "polis",
       "file": "icons/polis.png",
       "slug": "polis"
@@ -2414,6 +2424,11 @@
       "name": "radix",
       "file": "icons/radix.png",
       "slug": "radix"
+    },
+    {
+      "name": "rai",
+      "file": "icons/rai.png",
+      "slug": "rai"
     },
     {
       "name": "raiden network token",
@@ -3316,5 +3331,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 663
+  "count": 666
 }
