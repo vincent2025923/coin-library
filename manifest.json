@@ -2201,6 +2201,11 @@
       "slug": "peercoin"
     },
     {
+      "name": "pepe",
+      "file": "icons/pepe.png",
+      "slug": "pepe"
+    },
+    {
       "name": "perl.eco",
       "file": "icons/perl.eco.png",
       "slug": "perl.eco"
@@ -3331,5 +3336,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 666
+  "count": 667
 }
