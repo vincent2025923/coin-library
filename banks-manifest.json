@@ -17,8 +17,18 @@
     },
     {
       "name": "anz",
+      "file": "banks/bank-icons/anz.png",
+      "slug": "anz"
+    },
+    {
+      "name": "anz",
       "file": "banks/private-banks/anz.png",
       "slug": "anz"
+    },
+    {
+      "name": "applepay",
+      "file": "banks/ewallet/applepay.png",
+      "slug": "applepay"
     },
     {
       "name": "bangkok-bank",
@@ -336,6 +346,11 @@
       "slug": "bank-smbc-indonesia"
     },
     {
+      "name": "bank-syariah-indonesia",
+      "file": "banks/bank-icons/bank-syariah-indonesia.png",
+      "slug": "bank-syariah-indonesia"
+    },
+    {
       "name": "bank-victoria",
       "file": "banks/private-banks/bank-victoria.png",
       "slug": "bank-victoria"
@@ -349,6 +364,11 @@
       "name": "bank-woori-saudara",
       "file": "banks/private-banks/bank-woori-saudara.png",
       "slug": "bank-woori-saudara"
+    },
+    {
+      "name": "bca",
+      "file": "banks/bank-icons/bca.png",
+      "slug": "bca"
     },
     {
       "name": "bca",
@@ -366,14 +386,34 @@
       "slug": "bca-syariah"
     },
     {
+      "name": "bi",
+      "file": "banks/bank-icons/bi.png",
+      "slug": "bi"
+    },
+    {
+      "name": "bjb",
+      "file": "banks/bank-icons/bjb.png",
+      "slug": "bjb"
+    },
+    {
       "name": "blu-bca",
       "file": "banks/private-banks/blu-bca.png",
       "slug": "blu-bca"
     },
     {
+      "name": "bluepay",
+      "file": "banks/ewallet/bluepay.png",
+      "slug": "bluepay"
+    },
+    {
       "name": "bnc",
       "file": "banks/private-banks/bnc.png",
       "slug": "bnc"
+    },
+    {
+      "name": "bni",
+      "file": "banks/bank-icons/bni.png",
+      "slug": "bni"
     },
     {
       "name": "bni",
@@ -384,6 +424,11 @@
       "name": "bnp-paribas",
       "file": "banks/private-banks/bnp-paribas.png",
       "slug": "bnp-paribas"
+    },
+    {
+      "name": "bri",
+      "file": "banks/bank-icons/bri.png",
+      "slug": "bri"
     },
     {
       "name": "bri",
@@ -404,6 +449,11 @@
       "name": "bsi",
       "file": "banks/private-banks/bsi.png",
       "slug": "bsi"
+    },
+    {
+      "name": "btn",
+      "file": "banks/bank-icons/btn.png",
+      "slug": "btn"
     },
     {
       "name": "btn",
@@ -441,6 +491,21 @@
       "slug": "btpn-syariah"
     },
     {
+      "name": "bukopin",
+      "file": "banks/bank-icons/bukopin.png",
+      "slug": "bukopin"
+    },
+    {
+      "name": "cashbac",
+      "file": "banks/ewallet/cashbac.png",
+      "slug": "cashbac"
+    },
+    {
+      "name": "cashlez",
+      "file": "banks/ewallet/cashlez.png",
+      "slug": "cashlez"
+    },
+    {
       "name": "ccb-indonesia",
       "file": "banks/private-banks/ccb-indonesia.png",
       "slug": "ccb-indonesia"
@@ -451,6 +516,11 @@
       "slug": "ccb-indonesia-(alt)"
     },
     {
+      "name": "cimb",
+      "file": "banks/bank-icons/cimb.png",
+      "slug": "cimb"
+    },
+    {
       "name": "cimb-niaga",
       "file": "banks/private-banks/cimb-niaga.png",
       "slug": "cimb-niaga"
@@ -459,6 +529,11 @@
       "name": "cimb-niaga-syariah",
       "file": "banks/private-banks/cimb-niaga-syariah.png",
       "slug": "cimb-niaga-syariah"
+    },
+    {
+      "name": "citi",
+      "file": "banks/bank-icons/citi.png",
+      "slug": "citi"
     },
     {
       "name": "citibank",
@@ -486,6 +561,16 @@
       "slug": "ctbc-bank"
     },
     {
+      "name": "dana",
+      "file": "banks/ewallet/dana.png",
+      "slug": "dana"
+    },
+    {
+      "name": "danamon",
+      "file": "banks/bank-icons/danamon.png",
+      "slug": "danamon"
+    },
+    {
       "name": "danamon",
       "file": "banks/private-banks/danamon.png",
       "slug": "danamon"
@@ -511,9 +596,34 @@
       "slug": "deutsche-bank"
     },
     {
+      "name": "digibank",
+      "file": "banks/bank-icons/digibank.png",
+      "slug": "digibank"
+    },
+    {
+      "name": "flip",
+      "file": "banks/ewallet/flip.png",
+      "slug": "flip"
+    },
+    {
+      "name": "gopay",
+      "file": "banks/ewallet/gopay.png",
+      "slug": "gopay"
+    },
+    {
+      "name": "gpay",
+      "file": "banks/ewallet/gpay.png",
+      "slug": "gpay"
+    },
+    {
       "name": "hibank",
       "file": "banks/private-banks/hibank.png",
       "slug": "hibank"
+    },
+    {
+      "name": "hsbc",
+      "file": "banks/bank-icons/hsbc.png",
+      "slug": "hsbc"
     },
     {
       "name": "hsbc",
@@ -547,8 +657,18 @@
     },
     {
       "name": "jago",
+      "file": "banks/bank-icons/jago.png",
+      "slug": "jago"
+    },
+    {
+      "name": "jago",
       "file": "banks/private-banks/jago.png",
       "slug": "jago"
+    },
+    {
+      "name": "jenius",
+      "file": "banks/bank-icons/jenius.png",
+      "slug": "jenius"
     },
     {
       "name": "jenius",
@@ -591,6 +711,11 @@
       "slug": "krom"
     },
     {
+      "name": "kudo",
+      "file": "banks/ewallet/kudo.png",
+      "slug": "kudo"
+    },
+    {
       "name": "line-bank",
       "file": "banks/private-banks/line-bank.png",
       "slug": "line-bank"
@@ -599,6 +724,16 @@
       "name": "line-bank-(alt)",
       "file": "banks/private-banks/line-bank-(alt).png",
       "slug": "line-bank-(alt)"
+    },
+    {
+      "name": "linkaja",
+      "file": "banks/ewallet/linkaja.png",
+      "slug": "linkaja"
+    },
+    {
+      "name": "mandiri",
+      "file": "banks/bank-icons/mandiri.png",
+      "slug": "mandiri"
     },
     {
       "name": "mandiri",
@@ -612,8 +747,18 @@
     },
     {
       "name": "maybank",
+      "file": "banks/bank-icons/maybank.png",
+      "slug": "maybank"
+    },
+    {
+      "name": "maybank",
       "file": "banks/private-banks/maybank.png",
       "slug": "maybank"
+    },
+    {
+      "name": "mega",
+      "file": "banks/bank-icons/mega.png",
+      "slug": "mega"
     },
     {
       "name": "mega",
@@ -681,6 +826,11 @@
       "slug": "nobu"
     },
     {
+      "name": "ocbc",
+      "file": "banks/bank-icons/ocbc.png",
+      "slug": "ocbc"
+    },
+    {
       "name": "ocbc-nisp",
       "file": "banks/private-banks/ocbc-nisp.png",
       "slug": "ocbc-nisp"
@@ -691,6 +841,16 @@
       "slug": "ok-bank"
     },
     {
+      "name": "ovo",
+      "file": "banks/ewallet/ovo.png",
+      "slug": "ovo"
+    },
+    {
+      "name": "panin",
+      "file": "banks/bank-icons/panin.png",
+      "slug": "panin"
+    },
+    {
       "name": "panin-dubai-syariah",
       "file": "banks/private-banks/panin-dubai-syariah.png",
       "slug": "panin-dubai-syariah"
@@ -699,6 +859,31 @@
       "name": "paninbank",
       "file": "banks/private-banks/paninbank.png",
       "slug": "paninbank"
+    },
+    {
+      "name": "payfazz",
+      "file": "banks/ewallet/payfazz.png",
+      "slug": "payfazz"
+    },
+    {
+      "name": "paypal",
+      "file": "banks/ewallet/paypal.png",
+      "slug": "paypal"
+    },
+    {
+      "name": "paypro",
+      "file": "banks/ewallet/paypro.png",
+      "slug": "paypro"
+    },
+    {
+      "name": "paytren",
+      "file": "banks/ewallet/paytren.png",
+      "slug": "paytren"
+    },
+    {
+      "name": "permata",
+      "file": "banks/bank-icons/permata.png",
+      "slug": "permata"
     },
     {
       "name": "permata",
@@ -726,6 +911,11 @@
       "slug": "qnb"
     },
     {
+      "name": "qris",
+      "file": "banks/ewallet/qris.png",
+      "slug": "qris"
+    },
+    {
       "name": "sbi-indonesia",
       "file": "banks/private-banks/sbi-indonesia.png",
       "slug": "sbi-indonesia"
@@ -751,6 +941,11 @@
       "slug": "shinhan-bank-(alt)"
     },
     {
+      "name": "shopeepay",
+      "file": "banks/ewallet/shopeepay.png",
+      "slug": "shopeepay"
+    },
+    {
       "name": "sinarmas",
       "file": "banks/private-banks/sinarmas.png",
       "slug": "sinarmas"
@@ -759,6 +954,11 @@
       "name": "sinarmas-syariah",
       "file": "banks/private-banks/sinarmas-syariah.png",
       "slug": "sinarmas-syariah"
+    },
+    {
+      "name": "standard-chartered",
+      "file": "banks/bank-icons/standard-chartered.png",
+      "slug": "standard-chartered"
     },
     {
       "name": "standard-chartered",
@@ -776,6 +976,16 @@
       "slug": "superbank-(alt)"
     },
     {
+      "name": "uangku",
+      "file": "banks/ewallet/uangku.png",
+      "slug": "uangku"
+    },
+    {
+      "name": "uob",
+      "file": "banks/bank-icons/uob.png",
+      "slug": "uob"
+    },
+    {
       "name": "uob",
       "file": "banks/private-banks/uob.png",
       "slug": "uob"
@@ -786,5 +996,5 @@
       "slug": "welab-bank"
     }
   ],
-  "count": 157
+  "count": 199
 }
