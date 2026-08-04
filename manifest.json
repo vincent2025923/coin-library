@@ -1266,6 +1266,11 @@
       "slug": "gobyte"
     },
     {
+      "name": "goidr",
+      "file": "icons/goidr.png",
+      "slug": "goidr"
+    },
+    {
       "name": "golem",
       "file": "icons/golem.png",
       "slug": "golem"
@@ -3336,5 +3341,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 667
+  "count": 668
 }
