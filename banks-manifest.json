@@ -36,14 +36,54 @@
       "slug": "bangkok-bank"
     },
     {
+      "name": "bank-aceh-syariah",
+      "file": "banks/bank-icons/bank-aceh-syariah.png",
+      "slug": "bank-aceh-syariah"
+    },
+    {
+      "name": "bank-agris",
+      "file": "banks/bank-icons/bank-agris.png",
+      "slug": "bank-agris"
+    },
+    {
+      "name": "bank-amar-indonesia",
+      "file": "banks/bank-icons/bank-amar-indonesia.png",
+      "slug": "bank-amar-indonesia"
+    },
+    {
+      "name": "bank-anz-Indonesia",
+      "file": "banks/bank-icons/bank-anz-Indonesia.png",
+      "slug": "bank-anz-indonesia"
+    },
+    {
+      "name": "bank-artha-graha",
+      "file": "banks/bank-icons/bank-artha-graha.png",
+      "slug": "bank-artha-graha"
+    },
+    {
       "name": "bank-artha-graha-internasional",
       "file": "banks/private-banks/bank-artha-graha-internasional.png",
       "slug": "bank-artha-graha-internasional"
     },
     {
+      "name": "bank-artos-indonesia",
+      "file": "banks/bank-icons/bank-artos-indonesia.png",
+      "slug": "bank-artos-indonesia"
+    },
+    {
+      "name": "bank-barclays-indonesia",
+      "file": "banks/bank-icons/bank-barclays-indonesia.png",
+      "slug": "bank-barclays-indonesia"
+    },
+    {
       "name": "bank-bengkulu",
       "file": "banks/regional-bank/bank-bengkulu.png",
       "slug": "bank-bengkulu"
+    },
+    {
+      "name": "bank-bisnis-internasional",
+      "file": "banks/bank-icons/bank-bisnis-internasional.png",
+      "slug": "bank-bisnis-internasional"
     },
     {
       "name": "bank-bjb",
@@ -196,6 +236,21 @@
       "slug": "bank-bpd-sumut"
     },
     {
+      "name": "bank-btpn-syariah",
+      "file": "banks/bank-icons/bank-btpn-syariah.png",
+      "slug": "bank-btpn-syariah"
+    },
+    {
+      "name": "bank-bukopin",
+      "file": "banks/bank-icons/bank-bukopin.png",
+      "slug": "bank-bukopin"
+    },
+    {
+      "name": "bank-bumi-arta",
+      "file": "banks/bank-icons/bank-bumi-arta.png",
+      "slug": "bank-bumi-arta"
+    },
+    {
       "name": "bank-bumi-artha",
       "file": "banks/private-banks/bank-bumi-artha.png",
       "slug": "bank-bumi-artha"
@@ -211,6 +266,31 @@
       "slug": "bank-capital-(alt)"
     },
     {
+      "name": "bank-capital-indo",
+      "file": "banks/bank-icons/bank-capital-indo.png",
+      "slug": "bank-capital-indo"
+    },
+    {
+      "name": "bank-centratama",
+      "file": "banks/bank-icons/bank-centratama.png",
+      "slug": "bank-centratama"
+    },
+    {
+      "name": "bank-ctbc-indonesia",
+      "file": "banks/bank-icons/bank-ctbc-indonesia.png",
+      "slug": "bank-ctbc-indonesia"
+    },
+    {
+      "name": "bank-danamon",
+      "file": "banks/bank-icons/bank-danamon.png",
+      "slug": "bank-danamon"
+    },
+    {
+      "name": "bank-danpac",
+      "file": "banks/bank-icons/bank-danpac.png",
+      "slug": "bank-danpac"
+    },
+    {
       "name": "bank-dki",
       "file": "banks/regional-bank/bank-dki.png",
       "slug": "bank-dki"
@@ -221,14 +301,49 @@
       "slug": "bank-dki-1"
     },
     {
+      "name": "bank-dki-syariah",
+      "file": "banks/bank-icons/bank-dki-syariah.png",
+      "slug": "bank-dki-syariah"
+    },
+    {
+      "name": "bank-fama",
+      "file": "banks/bank-icons/bank-fama.png",
+      "slug": "bank-fama"
+    },
+    {
       "name": "bank-ganesha",
       "file": "banks/private-banks/bank-ganesha.png",
       "slug": "bank-ganesha"
     },
     {
+      "name": "bank-harda-internasiona",
+      "file": "banks/bank-icons/bank-harda-internasiona.png",
+      "slug": "bank-harda-internasiona"
+    },
+    {
+      "name": "bank-harmoni-international",
+      "file": "banks/bank-icons/bank-harmoni-international.png",
+      "slug": "bank-harmoni-international"
+    },
+    {
+      "name": "bank-hsbc-Indonesia",
+      "file": "banks/bank-icons/bank-hsbc-Indonesia.png",
+      "slug": "bank-hsbc-indonesia"
+    },
+    {
+      "name": "bank-icbc-Indonesia",
+      "file": "banks/bank-icons/bank-icbc-Indonesia.png",
+      "slug": "bank-icbc-indonesia"
+    },
+    {
       "name": "bank-ina",
       "file": "banks/private-banks/bank-ina.png",
       "slug": "bank-ina"
+    },
+    {
+      "name": "bank-ina-perdana",
+      "file": "banks/bank-icons/bank-ina-perdana.png",
+      "slug": "bank-ina-perdana"
     },
     {
       "name": "bank-index-selindo",
@@ -241,14 +356,34 @@
       "slug": "bank-index-selindo-(alt)"
     },
     {
+      "name": "bank-jambi-syariah",
+      "file": "banks/bank-icons/bank-jambi-syariah.png",
+      "slug": "bank-jambi-syariah"
+    },
+    {
       "name": "bank-jasa-jakarta",
       "file": "banks/private-banks/bank-jasa-jakarta.png",
       "slug": "bank-jasa-jakarta"
     },
     {
+      "name": "bank-jatim",
+      "file": "banks/bank-icons/bank-jatim.png",
+      "slug": "bank-jatim"
+    },
+    {
+      "name": "bank-keb-hana",
+      "file": "banks/bank-icons/bank-keb-hana.png",
+      "slug": "bank-keb-hana"
+    },
+    {
       "name": "bank-lampung",
       "file": "banks/regional-bank/bank-lampung.png",
       "slug": "bank-lampung"
+    },
+    {
+      "name": "bank-mandiri-taspen",
+      "file": "banks/bank-icons/bank-mandiri-taspen.png",
+      "slug": "bank-mandiri-taspen"
     },
     {
       "name": "bank-mas",
@@ -266,6 +401,11 @@
       "slug": "bank-maspion-(alt)"
     },
     {
+      "name": "bank-maspion-Indonesia",
+      "file": "banks/bank-icons/bank-maspion-Indonesia.png",
+      "slug": "bank-maspion-indonesia"
+    },
+    {
       "name": "bank-mayapada",
       "file": "banks/private-banks/bank-mayapada.png",
       "slug": "bank-mayapada"
@@ -281,14 +421,49 @@
       "slug": "bank-mayora"
     },
     {
+      "name": "bank-mega-syariah",
+      "file": "banks/bank-icons/bank-mega-syariah.png",
+      "slug": "bank-mega-syariah"
+    },
+    {
       "name": "bank-mestika-dharma",
       "file": "banks/private-banks/bank-mestika-dharma.png",
       "slug": "bank-mestika-dharma"
     },
     {
+      "name": "bank-mitraniaga",
+      "file": "banks/bank-icons/bank-mitraniaga.png",
+      "slug": "bank-mitraniaga"
+    },
+    {
+      "name": "bank-mizuho-indonesia",
+      "file": "banks/bank-icons/bank-mizuho-indonesia.png",
+      "slug": "bank-mizuho-indonesia"
+    },
+    {
+      "name": "bank-mnc-international",
+      "file": "banks/bank-icons/bank-mnc-international.png",
+      "slug": "bank-mnc-international"
+    },
+    {
+      "name": "bank-muamalat",
+      "file": "banks/bank-icons/bank-muamalat.png",
+      "slug": "bank-muamalat"
+    },
+    {
+      "name": "bank-multi-arta-sentosa",
+      "file": "banks/bank-icons/bank-multi-arta-sentosa.png",
+      "slug": "bank-multi-arta-sentosa"
+    },
+    {
       "name": "bank-nagari",
       "file": "banks/regional-bank/bank-nagari.png",
       "slug": "bank-nagari"
+    },
+    {
+      "name": "bank-nusantara",
+      "file": "banks/bank-icons/bank-nusantara.png",
+      "slug": "bank-nusantara"
     },
     {
       "name": "bank-of-america",
@@ -309,6 +484,21 @@
       "name": "bank-of-india-indonesia",
       "file": "banks/foreign-branch-office/bank-of-india-indonesia.png",
       "slug": "bank-of-india-indonesia"
+    },
+    {
+      "name": "bank-oke-indonesia",
+      "file": "banks/bank-icons/bank-oke-indonesia.png",
+      "slug": "bank-oke-indonesia"
+    },
+    {
+      "name": "bank-prima-master",
+      "file": "banks/bank-icons/bank-prima-master.png",
+      "slug": "bank-prima-master"
+    },
+    {
+      "name": "bank-qnb-indonesia",
+      "file": "banks/bank-icons/bank-qnb-indonesia.png",
+      "slug": "bank-qnb-indonesia"
     },
     {
       "name": "bank-raya",
@@ -341,6 +531,21 @@
       "slug": "bank-saqu-(alt)"
     },
     {
+      "name": "bank-sbi-indonesia",
+      "file": "banks/bank-icons/bank-sbi-indonesia.png",
+      "slug": "bank-sbi-indonesia"
+    },
+    {
+      "name": "bank-shinhan-indonesia",
+      "file": "banks/bank-icons/bank-shinhan-indonesia.png",
+      "slug": "bank-shinhan-indonesia"
+    },
+    {
+      "name": "bank-sinarmas",
+      "file": "banks/bank-icons/bank-sinarmas.png",
+      "slug": "bank-sinarmas"
+    },
+    {
       "name": "bank-smbc-indonesia",
       "file": "banks/private-banks/bank-smbc-indonesia.png",
       "slug": "bank-smbc-indonesia"
@@ -349,6 +554,11 @@
       "name": "bank-syariah-indonesia",
       "file": "banks/bank-icons/bank-syariah-indonesia.png",
       "slug": "bank-syariah-indonesia"
+    },
+    {
+      "name": "bank-uob-indo",
+      "file": "banks/bank-icons/bank-uob-indo.png",
+      "slug": "bank-uob-indo"
     },
     {
       "name": "bank-victoria",
@@ -364,6 +574,11 @@
       "name": "bank-woori-saudara",
       "file": "banks/private-banks/bank-woori-saudara.png",
       "slug": "bank-woori-saudara"
+    },
+    {
+      "name": "bank-yudha-bakti",
+      "file": "banks/bank-icons/bank-yudha-bakti.png",
+      "slug": "bank-yudha-bakti"
     },
     {
       "name": "bca",
@@ -426,6 +641,131 @@
       "slug": "bnp-paribas"
     },
     {
+      "name": "bnp-paribas-indonesia",
+      "file": "banks/bank-icons/bnp-paribas-indonesia.png",
+      "slug": "bnp-paribas-indonesia"
+    },
+    {
+      "name": "bpd-aceh-syariah",
+      "file": "banks/bank-icons/bpd-aceh-syariah.png",
+      "slug": "bpd-aceh-syariah"
+    },
+    {
+      "name": "bpd-bali",
+      "file": "banks/bank-icons/bpd-bali.png",
+      "slug": "bpd-bali"
+    },
+    {
+      "name": "bpd-banten",
+      "file": "banks/bank-icons/bpd-banten.png",
+      "slug": "bpd-banten"
+    },
+    {
+      "name": "bpd-bengkulu",
+      "file": "banks/bank-icons/bpd-bengkulu.png",
+      "slug": "bpd-bengkulu"
+    },
+    {
+      "name": "bpd-jambi",
+      "file": "banks/bank-icons/bpd-jambi.png",
+      "slug": "bpd-jambi"
+    },
+    {
+      "name": "bpd-jambi-syariah",
+      "file": "banks/bank-icons/bpd-jambi-syariah.png",
+      "slug": "bpd-jambi-syariah"
+    },
+    {
+      "name": "bpd-jatim-syariah",
+      "file": "banks/bank-icons/bpd-jatim-syariah.png",
+      "slug": "bpd-jatim-syariah"
+    },
+    {
+      "name": "bpd-kalimantan-barat",
+      "file": "banks/bank-icons/bpd-kalimantan-barat.png",
+      "slug": "bpd-kalimantan-barat"
+    },
+    {
+      "name": "bpd-kalimantan-barat-syariah",
+      "file": "banks/bank-icons/bpd-kalimantan-barat-syariah.png",
+      "slug": "bpd-kalimantan-barat-syariah"
+    },
+    {
+      "name": "bpd-kalimantan-timur",
+      "file": "banks/bank-icons/bpd-kalimantan-timur.png",
+      "slug": "bpd-kalimantan-timur"
+    },
+    {
+      "name": "bpd-kalimantan-timur-syariah",
+      "file": "banks/bank-icons/bpd-kalimantan-timur-syariah.png",
+      "slug": "bpd-kalimantan-timur-syariah"
+    },
+    {
+      "name": "bpd-kalsel",
+      "file": "banks/bank-icons/bpd-kalsel.png",
+      "slug": "bpd-kalsel"
+    },
+    {
+      "name": "bpd-kalsel-syariah",
+      "file": "banks/bank-icons/bpd-kalsel-syariah.png",
+      "slug": "bpd-kalsel-syariah"
+    },
+    {
+      "name": "bpd-lampung",
+      "file": "banks/bank-icons/bpd-lampung.png",
+      "slug": "bpd-lampung"
+    },
+    {
+      "name": "bpd-ntb",
+      "file": "banks/bank-icons/bpd-ntb.png",
+      "slug": "bpd-ntb"
+    },
+    {
+      "name": "bpd-ntt",
+      "file": "banks/bank-icons/bpd-ntt.png",
+      "slug": "bpd-ntt"
+    },
+    {
+      "name": "bpd-papua",
+      "file": "banks/bank-icons/bpd-papua.png",
+      "slug": "bpd-papua"
+    },
+    {
+      "name": "bpd-riau-kepri",
+      "file": "banks/bank-icons/bpd-riau-kepri.png",
+      "slug": "bpd-riau-kepri"
+    },
+    {
+      "name": "bpd-sulawesi-tengah",
+      "file": "banks/bank-icons/bpd-sulawesi-tengah.png",
+      "slug": "bpd-sulawesi-tengah"
+    },
+    {
+      "name": "bpd-sulawesi-tenggara",
+      "file": "banks/bank-icons/bpd-sulawesi-tenggara.png",
+      "slug": "bpd-sulawesi-tenggara"
+    },
+    {
+      "name": "bpd-sumatera-barat-syariah",
+      "file": "banks/bank-icons/bpd-sumatera-barat-syariah.png",
+      "slug": "bpd-sumatera-barat-syariah"
+    },
+    {
+      "name": "bpd-sumatera-selatan-babel",
+      "file": "banks/bank-icons/bpd-sumatera-selatan-babel.png",
+      "slug": "bpd-sumatera-selatan-babel"
+    },
+    {
+      "name": "bpd-sumut-unit-syariah",
+      "file": "banks/bank-icons/bpd-sumut-unit-syariah.png",
+      "slug": "bpd-sumut-unit-syariah"
+    },
+    {
+      "name": "bpd-yogyakarta-syariah",
+      "file": "banks/bank-icons/bpd-yogyakarta-syariah.png",
+      "slug": "bpd-yogyakarta-syariah"
+    },
+    {
       "name": "bri",
       "file": "banks/bank-icons/bri.png",
       "slug": "bri"
@@ -444,6 +784,11 @@
       "name": "bri-(vertical)",
       "file": "banks/state-owned/bri-(vertical).png",
       "slug": "bri-(vertical)"
+    },
+    {
+      "name": "bri-agroniaga",
+      "file": "banks/bank-icons/bri-agroniaga.png",
+      "slug": "bri-agroniaga"
     },
     {
       "name": "bsi",
@@ -482,6 +827,11 @@
     },
     {
       "name": "btpn",
+      "file": "banks/bank-icons/btpn.png",
+      "slug": "btpn"
+    },
+    {
+      "name": "btpn",
       "file": "banks/private-banks/btpn.png",
       "slug": "btpn"
     },
@@ -494,6 +844,11 @@
       "name": "bukopin",
       "file": "banks/bank-icons/bukopin.png",
       "slug": "bukopin"
+    },
+    {
+      "name": "bukopin-syariah",
+      "file": "banks/bank-icons/bukopin-syariah.png",
+      "slug": "bukopin-syariah"
     },
     {
       "name": "cashbac",
@@ -514,6 +869,11 @@
       "name": "ccb-indonesia-(alt)",
       "file": "banks/private-banks/ccb-indonesia-(alt).png",
       "slug": "ccb-indonesia-(alt)"
+    },
+    {
+      "name": "china-construction",
+      "file": "banks/bank-icons/china-construction.png",
+      "slug": "china-construction"
     },
     {
       "name": "cimb",
@@ -582,6 +942,11 @@
     },
     {
       "name": "danamon-syariah",
+      "file": "banks/bank-icons/danamon-syariah.png",
+      "slug": "danamon-syariah"
+    },
+    {
+      "name": "danamon-syariah",
       "file": "banks/private-banks/danamon-syariah.png",
       "slug": "danamon-syariah"
     },
@@ -589,6 +954,16 @@
       "name": "dbs",
       "file": "banks/private-banks/dbs.png",
       "slug": "dbs"
+    },
+    {
+      "name": "dbs-indonesia",
+      "file": "banks/bank-icons/dbs-indonesia.png",
+      "slug": "dbs-indonesia"
+    },
+    {
+      "name": "deutsche-ag",
+      "file": "banks/bank-icons/deutsche-ag.png",
+      "slug": "deutsche-ag"
     },
     {
       "name": "deutsche-bank",
@@ -676,6 +1051,11 @@
       "slug": "jenius"
     },
     {
+      "name": "jp-morgan",
+      "file": "banks/bank-icons/jp-morgan.png",
+      "slug": "jp-morgan"
+    },
+    {
       "name": "jp-morgan-chase",
       "file": "banks/foreign-branch-office/jp-morgan-chase.png",
       "slug": "jp-morgan-chase"
@@ -704,6 +1084,11 @@
       "name": "keb-hana-bank-(alt)",
       "file": "banks/private-banks/keb-hana-bank-(alt).png",
       "slug": "keb-hana-bank-(alt)"
+    },
+    {
+      "name": "kesejahteraan-ekonomi",
+      "file": "banks/bank-icons/kesejahteraan-ekonomi.png",
+      "slug": "kesejahteraan-ekonomi"
     },
     {
       "name": "krom",
@@ -754,6 +1139,11 @@
       "name": "maybank",
       "file": "banks/private-banks/maybank.png",
       "slug": "maybank"
+    },
+    {
+      "name": "maybank-syariah",
+      "file": "banks/bank-icons/maybank-syariah.png",
+      "slug": "maybank-syariah"
     },
     {
       "name": "mega",
@@ -811,6 +1201,11 @@
       "slug": "mufg-(alt)"
     },
     {
+      "name": "mufg-bank-ltd",
+      "file": "banks/bank-icons/mufg-bank-ltd.png",
+      "slug": "mufg-bank-ltd"
+    },
+    {
       "name": "nanobank-syariah",
       "file": "banks/private-banks/nanobank-syariah.png",
       "slug": "nanobank-syariah"
@@ -826,6 +1221,11 @@
       "slug": "nobu"
     },
     {
+      "name": "nobu-national-bank",
+      "file": "banks/bank-icons/nobu-national-bank.png",
+      "slug": "nobu-national-bank"
+    },
+    {
       "name": "ocbc",
       "file": "banks/bank-icons/ocbc.png",
       "slug": "ocbc"
@@ -834,6 +1234,11 @@
       "name": "ocbc-nisp",
       "file": "banks/private-banks/ocbc-nisp.png",
       "slug": "ocbc-nisp"
+    },
+    {
+      "name": "ocbc-nisp-syariah",
+      "file": "banks/bank-icons/ocbc-nisp-syariah.png",
+      "slug": "ocbc-nisp-syariah"
     },
     {
       "name": "ok-bank",
@@ -901,9 +1306,19 @@
       "slug": "permata-bank-(new)"
     },
     {
+      "name": "permata-syariah",
+      "file": "banks/bank-icons/permata-syariah.png",
+      "slug": "permata-syariah"
+    },
+    {
       "name": "prima-bank",
       "file": "banks/private-banks/prima-bank.png",
       "slug": "prima-bank"
+    },
+    {
+      "name": "pt-bank-sulselbar",
+      "file": "banks/bank-icons/pt-bank-sulselbar.png",
+      "slug": "pt-bank-sulselbar"
     },
     {
       "name": "qnb",
@@ -914,6 +1329,26 @@
       "name": "qris",
       "file": "banks/ewallet/qris.png",
       "slug": "qris"
+    },
+    {
+      "name": "rabo-bank",
+      "file": "banks/bank-icons/rabo-bank.png",
+      "slug": "rabo-bank"
+    },
+    {
+      "name": "resona-perdania",
+      "file": "banks/bank-icons/resona-perdania.png",
+      "slug": "resona-perdania"
+    },
+    {
+      "name": "royal-bank-scotland",
+      "file": "banks/bank-icons/royal-bank-scotland.png",
+      "slug": "royal-bank-scotland"
+    },
+    {
+      "name": "sahabat-sampoerna",
+      "file": "banks/bank-icons/sahabat-sampoerna.png",
+      "slug": "sahabat-sampoerna"
     },
     {
       "name": "sbi-indonesia",
@@ -991,10 +1426,20 @@
       "slug": "uob"
     },
     {
+      "name": "victoria-syariah",
+      "file": "banks/bank-icons/victoria-syariah.png",
+      "slug": "victoria-syariah"
+    },
+    {
       "name": "welab-bank",
       "file": "banks/private-banks/welab-bank.png",
       "slug": "welab-bank"
+    },
+    {
+      "name": "woori-saudara-indo",
+      "file": "banks/bank-icons/woori-saudara-indo.png",
+      "slug": "woori-saudara-indo"
     }
   ],
-  "count": 199
+  "count": 288
 }
