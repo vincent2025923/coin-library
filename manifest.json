@@ -1441,6 +1441,11 @@
       "slug": "idex"
     },
     {
+      "name": "idrt",
+      "file": "icons/idrt.png",
+      "slug": "idrt"
+    },
+    {
       "name": "iexec rlc",
       "file": "icons/iexec rlc.png",
       "slug": "iexec-rlc"
@@ -3341,5 +3346,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 668
+  "count": 669
 }
