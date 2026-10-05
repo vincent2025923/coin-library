@@ -86,6 +86,11 @@
       "slug": "agrello-delta"
     },
     {
+      "name": "aia",
+      "file": "icons/aia.png",
+      "slug": "aia"
+    },
+    {
       "name": "aidos kuneen",
       "file": "icons/aidos kuneen.png",
       "slug": "aidos-kuneen"
@@ -1526,6 +1531,11 @@
       "slug": "irisnet"
     },
     {
+      "name": "jam",
+      "file": "icons/jam.png",
+      "slug": "jam"
+    },
+    {
       "name": "just",
       "file": "icons/just.png",
       "slug": "just"
@@ -1569,6 +1579,11 @@
       "name": "kin",
       "file": "icons/kin.png",
       "slug": "kin"
+    },
+    {
+      "name": "kite",
+      "file": "icons/kite.png",
+      "slug": "kite"
     },
     {
       "name": "klayswap protocol",
@@ -2094,6 +2109,11 @@
       "name": "omni",
       "file": "icons/omni.png",
       "slug": "omni"
+    },
+    {
+      "name": "ondo",
+      "file": "icons/ondo.png",
+      "slug": "ondo"
     },
     {
       "name": "ongsocial",
@@ -3076,6 +3096,11 @@
       "slug": "trueusd"
     },
     {
+      "name": "trump",
+      "file": "icons/trump.png",
+      "slug": "trump"
+    },
+    {
       "name": "trust wallet token",
       "file": "icons/trust wallet token.png",
       "slug": "trust-wallet-token"
@@ -3134,6 +3159,11 @@
       "name": "usd coin",
       "file": "icons/usd coin.png",
       "slug": "usd-coin"
+    },
+    {
+      "name": "usdp",
+      "file": "icons/usdp.png",
+      "slug": "usdp"
     },
     {
       "name": "utrust",
@@ -3209,6 +3239,11 @@
       "name": "vulcan forged pyr",
       "file": "icons/vulcan forged pyr.png",
       "slug": "vulcan-forged-pyr"
+    },
+    {
+      "name": "vvv",
+      "file": "icons/vvv.png",
+      "slug": "vvv"
     },
     {
       "name": "waltonchain",
@@ -3346,5 +3381,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 669
+  "count": 676
 }
