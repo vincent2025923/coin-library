@@ -1681,6 +1681,11 @@
       "slug": "lisk"
     },
     {
+      "name": "lit",
+      "file": "icons/lit.png",
+      "slug": "lit"
+    },
+    {
       "name": "litecoin",
       "file": "icons/litecoin.png",
       "slug": "litecoin"
@@ -3381,5 +3386,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 676
+  "count": 677
 }
