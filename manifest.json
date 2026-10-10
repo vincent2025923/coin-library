@@ -2716,6 +2716,11 @@
       "slug": "skycoin"
     },
     {
+      "name": "slvon",
+      "file": "icons/slvon.png",
+      "slug": "slvon"
+    },
+    {
       "name": "small love potion",
       "file": "icons/small love potion.png",
       "slug": "small-love-potion"
@@ -3386,5 +3391,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 677
+  "count": 678
 }
