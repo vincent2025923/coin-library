@@ -571,6 +571,11 @@
       "slug": "casper"
     },
     {
+      "name": "cast",
+      "file": "icons/cast.png",
+      "slug": "cast"
+    },
+    {
       "name": "celer network",
       "file": "icons/celer network.png",
       "slug": "celer-network"
@@ -3391,5 +3396,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 678
+  "count": 679
 }
