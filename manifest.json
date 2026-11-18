@@ -1771,6 +1771,11 @@
       "slug": "math"
     },
     {
+      "name": "mbg",
+      "file": "icons/mbg.png",
+      "slug": "mbg"
+    },
+    {
       "name": "mco",
       "file": "icons/mco.png",
       "slug": "mco"
@@ -3396,5 +3401,5 @@
       "slug": "zkswap"
     }
   ],
-  "count": 679
+  "count": 680
 }
